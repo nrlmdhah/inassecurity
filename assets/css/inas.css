@@ -6,7 +6,7 @@ Table of contents
 1. Typography
 2. Main Nav
 3. Home
-4. About
+4. 
 5. Work
 6. Single Work
 7. Pricing
@@ -124,7 +124,7 @@ p, a {font-weight: 400;}
   color: white;
   transition: .5s;
 }
-/* About */
+/*  */
 #work_banner {
   background-image: url('./../img/bg.jpg');
   background-position: center center; background-size: cover;
@@ -150,7 +150,7 @@ p, a {font-weight: 400;}
   background: rgb(239,239,253);
   background: -moz-linear-gradient(0deg, rgba(239,239,253,1) 50%, rgba(255,255,255,1) 50%);
   background: -webkit-linear-gradient(0deg, rgba(239,239,253,1) 50%, rgba(255,255,255,1) 50%);
-  background: linear-gradient(0deg, rgba(239,239,253,1) 50%, rgba(255,255,255,1) 50%);
+  background: linear-gradient(0deg, rgba(250,250,255,1) 50%, rgba(255,255,255,1) 50%);
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#efeffd",endColorstr="#ffffff",GradientType=1);
 }
 .objective-card {
@@ -221,4 +221,5 @@ p, a {font-weight: 400;}
 footer a.text-light:hover {
   color: #bfbfbf !important;
   transition-duration: 0.15s;
+
 }
