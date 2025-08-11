@@ -147,11 +147,9 @@ p, a {font-weight: 400;}
   background-color: #b1b3f5;
 }
 .why-us {
-  background: rgb(239,239,253);
-  background: -moz-linear-gradient(0deg, rgba(239,239,253,1) 50%, rgba(255,255,255,1) 50%);
-  background: -webkit-linear-gradient(0deg, rgba(239,239,253,1) 50%, rgba(255,255,255,1) 50%);
-  background: linear-gradient(0deg, rgba(250,250,255,1) 50%, rgba(255,255,255,1) 50%);
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#efeffd",endColorstr="#ffffff",GradientType=1);
+  background: #ffffff !important;
+  background-image: none !important;
+  filter: none !important;
 }
 .objective-card {
     background-color: #ffffff;
@@ -223,3 +221,4 @@ footer a.text-light:hover {
   transition-duration: 0.15s;
 
 }
+
